@@ -6,7 +6,7 @@ Welcome to **Travel AI**, a smart travel recommendation system that helps you fi
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/Tusharkanta407/Travel-Ai.git
 cd travel-ai
 ```
 
