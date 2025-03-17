@@ -4,7 +4,7 @@ import streamlit as st
 import time
 
 # Directly configure API Key
-genai.configure(api_key=your Api key)
+genai.configure(api_key="AIzaSyBpmJh4SGPYgmkbObdYKmQLwWz8TizsKaM")
 
 # Function to load Google Gemini Vision Model and get response
 def get_response_image(image, prompt):
